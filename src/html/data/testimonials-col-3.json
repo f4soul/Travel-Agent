@@ -1,0 +1,44 @@
+[
+	{
+		"stars": 5,
+		"text": "Efficient and reliable! The travel website helped me find the best travel deals, and their user-friendly interface made the booking process a breeze.",
+		"name": "Jonathan R.",
+		"role": "Travel Enthusiast",
+		"img": "13.jpg"
+	},
+	{
+		"stars": 3,
+		"text": "I loved the personalized itinerary feature of this travel website. It allowed me to plan my trip according to my preferences, making it a truly customized experience.",
+		"name": "Angela Cole",
+		"role": "Travel Enthusiast",
+		"img": "14.jpg"
+	},
+	{
+		"stars": 5,
+		"text": "A one-stop-shop for all things travel! The website's variety of travel options and user reviews helped me make informed decisions and ensured a smooth trip.",
+		"name": "Bambang Susilo",
+		"role": "Travel Enthusiast",
+		"img": "15.jpg"
+	},
+	{
+		"stars": 4,
+		"text": "I stumbled upon this travel website, and it turned out to be a hidden gem. Their destination insights helped me discover unique places I'd never have found otherwise.",
+		"name": "Ella Martinez",
+		"role": "Travel Enthusiast",
+		"img": "16.jpg"
+	},
+	{
+		"stars": 5,
+		"text": "I'm constantly amazed by the quality of information on this travel platform. It's like having a personal travel advisor with me wherever I go.",
+		"name": "William Turner",
+		"role": "Travel Enthusiast",
+		"img": "17.jpg"
+	},
+	{
+		"stars": 4,
+		"text": "Kudos to this travel website for making my last-minute trip a success. Their quick booking options and reliable recommendations saved the day.",
+		"name": "Sophia Lee",
+		"role": "Travel Enthusiast",
+		"img": "18.jpg"
+	}
+]

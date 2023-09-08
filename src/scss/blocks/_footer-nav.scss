@@ -1,0 +1,26 @@
+.footer-nav {
+	display: grid;
+	gap: 24px;
+
+	@include mediaMobile {
+		gap: 12px;
+	}
+}
+
+.footer-nav__title {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 150%;
+}
+
+.footer-nav__list {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 450;
+	line-height: 150%;
+
+	li {
+		padding: 8px 0;
+	}
+}

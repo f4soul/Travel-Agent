@@ -1,0 +1,44 @@
+[
+	{
+		"stars": 4,
+		"text": "Hands down the best travel website I've ever used! The user interface was so intuitive, and I was able to book my dream vacation effortlessly. erat.",
+		"name": "Jake Pulmer",
+		"role": "Travel Enthusiast",
+		"img": "07.jpg"
+	},
+	{
+		"stars": 4,
+		"text": "Amazing experience! The travel website made booking our vacation a breeze. Everything was well-organized.",
+		"name": "Nichole Edward",
+		"role": "Travel Enthusiast",
+		"img": "08.jpg"
+	},
+	{
+		"stars": 5,
+		"text": "The travel website's customer service is top-notch! They were quick to respond to my queries and helped me plan a dream vacation.",
+		"name": "Jendry Ong",
+		"role": "Travel Enthusiast",
+		"img": "09.jpg"
+	},
+	{
+		"stars": 5,
+		"text": "I can't thank this travel platform enough! Their recommendations led me to the most amazing adventures. It's a must-visit site for anyone with wanderlust.",
+		"name": "Oliver Brown",
+		"role": "Travel Enthusiast",
+		"img": "10.jpg"
+	},
+	{
+		"stars": 4,
+		"text": "My recent trip organized through this website was a success. The detailed itineraries and insider tips made all the difference in our experience.",
+		"name": "Grace Turner",
+		"role": "Travel Enthusiast",
+		"img": "11.jpg"
+	},
+	{
+		"stars": 5,
+		"text": "This travel site is my go-to for vacation planning. Their up-to-date information and expert recommendations make trip planning a breeze.",
+		"name": "David White",
+		"role": "Travel Enthusiast",
+		"img": "12.jpg"
+	}
+]

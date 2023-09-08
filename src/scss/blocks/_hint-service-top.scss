@@ -1,0 +1,76 @@
+.hint-service {
+	position: absolute;
+	display: flex;
+	padding: 12px;
+	gap: 16px;
+	width: 300px;
+	border-radius: 12px;
+	background: var(--page-bg);
+	box-shadow: 0px 4px 34px 0px rgba(50, 75, 104, 0.17);
+	top: 0;
+	left: 45%;
+	transform: translateX(-80%) translateY(60%);
+	z-index: 9;
+
+	@include mediaTablet {
+		transform: translateX(-130%) translateY(-20%);
+	}
+
+	@include mediaMobile {
+		transform: translateX(-106%) translateY(5%);
+	}
+
+	@include mediaMobileS {
+		transform: translateX(-34%) translateY(25%);
+	}
+
+	@include mediaMobileXS {
+		display: none;
+	}
+}
+
+.hint-service__picture {
+	width: 58px;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.hint-service__title {
+	display: flex;
+	justify-content: space-between;
+	width: 202px;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 150%;
+}
+
+.hint-service__rating {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	gap: 4px;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 1;
+
+	&::before {
+		content: '';
+		width: 17px;
+		height: 16px;
+		background-image: url('./../img/icons/star-small.svg');
+		background-repeat: no-repeat;
+	}
+}
+
+.hint-service__price {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 150%;
+
+	i {
+		color: var(--accent);
+		font-style: normal;
+	}
+}
